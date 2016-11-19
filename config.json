@@ -1,0 +1,6 @@
+{
+  "Sources": [
+    { "Address": "239.2.12.1:1234", "Priority": 100},
+    { "Address": "239.2.12.2:1234", "Priority": 10}
+  ]
+}
